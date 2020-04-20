@@ -4,7 +4,7 @@
 
 — source wikipedia
 
->Here are the 5 steps i have used to  create this chatbot:
+Here are the 5 steps i have used to  create this chatbot:
 1.Import and load the data file
 2.Preprocess data
 3.Create training and testing data
